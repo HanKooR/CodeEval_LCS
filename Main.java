@@ -44,7 +44,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.Arrays;
+//import java.util.Arrays; //only needed for debugging-purposes
 
 public class Main {
 
